@@ -17,5 +17,6 @@ Input:
 Output:
 
    number of nodes in similarity set S_1/difference set S_2
+   the size of k
    the representative nodes for similarity set S_1
    the representative nodes for difference set S_2
